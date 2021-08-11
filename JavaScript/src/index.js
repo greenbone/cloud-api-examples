@@ -58,7 +58,12 @@ async function getTargets() {
             }
         })
 
-   return await httpResponse.json()
+    try {
+        return await httpResponse.json()
+    }catch (e) {
+        console.error(e)
+    }
+
 }
 
 async function main() {

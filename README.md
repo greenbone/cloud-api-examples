@@ -3,7 +3,7 @@
 # Greenbone Cloud Api Examples
 
 These examples show how to use the Greenbone cloud api.
-You can find the api documentation at `/api/doc/swagger-ui.html` on your cloud instance.
+You can find the api documentation at `https://mgmt.greenbone.cloud/api/doc/swagger-ui.html` on your cloud instance.
 
 For installation and usage instructions have a look at the directory corresponding ding to the language you'd like to use.
 
