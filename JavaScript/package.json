@@ -10,6 +10,6 @@
   "author": "Jan Werremeyer",
   "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   }
 }
